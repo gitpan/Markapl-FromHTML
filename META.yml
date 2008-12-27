@@ -21,4 +21,4 @@ requires:
   HTML::PullParser: 0
   Rubyish: 0.31
   perl: 5.8.0
-version: 0.01
+version: 0.02
